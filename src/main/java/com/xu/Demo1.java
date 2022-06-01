@@ -15,6 +15,7 @@ public class Demo1
         System.out.println("hello3 中国");
         System.out.println("hello4 中国");
         System.out.println("master 中国");
+        System.out.println("hot-fix test");
         return name;
     }
 }
