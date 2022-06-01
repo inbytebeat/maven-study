@@ -12,6 +12,7 @@ public class Demo1
     {
         System.out.println("hello" + name);
         System.out.println("hello2 中国");
+        System.out.println("hello3 中国");
         return name;
     }
 }
