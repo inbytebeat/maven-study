@@ -22,6 +22,7 @@ public class Demo1
         System.out.println("pull test");
         System.out.println("gitee test");
         System.out.println("gitee test2");
+        System.out.println("pull test2");
         return name;
     }
 }
