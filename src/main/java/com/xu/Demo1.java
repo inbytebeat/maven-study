@@ -11,6 +11,7 @@ public class Demo1
     public String say(String name)
     {
         System.out.println("hello" + name);
+        System.out.println("hello2 中国");
         return name;
     }
 }
