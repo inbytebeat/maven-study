@@ -20,6 +20,7 @@ public class Demo1
         System.out.println("hot-fix test3");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("gitee test");
         return name;
     }
 }
